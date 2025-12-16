@@ -1,0 +1,29 @@
+* [33mcommit 5a1331d1517293824c5d4a2c24c2329bdc2e74ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: DuyDevLinux <duychau333@gmail.com>
+[31m|[m Date:   Sun Dec 14 07:35:40 2025 +0700
+[31m|[m 
+[31m|[m     structure update
+[31m|[m 
+* [33mcommit aef1b558cdd82fb53239b4aa807fd70f65fd3480[m[33m ([m[1;31mduyserver/main[m[33m)[m
+[31m|[m Author: DuyChau <142241956+Duy368@users.noreply.github.com>
+[31m|[m Date:   Sun Dec 7 14:48:26 2025 +0700
+[31m|[m 
+[31m|[m     Add output file patterns to .gitignore
+[31m|[m 
+* [33mcommit 8203319c791fad24f35043e640da30b1b0ef41f2[m
+[31m|[m Author: DuyChau <142241956+Duy368@users.noreply.github.com>
+[31m|[m Date:   Sun Dec 7 12:00:13 2025 +0700
+[31m|[m 
+[31m|[m     Add README for homework 01 library management
+[31m|[m 
+* [33mcommit 229ac976b35b8b4fe61caf9b410813d9262f7f97[m
+[31m|[m Author: DuyDevLinux <duychau333@gmail.com>
+[31m|[m Date:   Fri Dec 5 10:14:30 2025 +0700
+[31m|[m 
+[31m|[m     Reorganize project structure: add src, include, bin, build
+[31m|[m 
+* [33mcommit 606483a90f32daf9d6d2e1fefe98ef39b08ac32d[m
+  Author: DuyDevLinux <duychau333@gmail.com>
+  Date:   Thu Dec 4 21:39:59 2025 +0700
+  
+      Initial commit: add project structure and Makefile
